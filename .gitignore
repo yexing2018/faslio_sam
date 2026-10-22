@@ -7,6 +7,11 @@ FAST_LIO_SAM/log
 FAST_LIO_SAM/.vscode
 FAST_LIO_SAM/CMakeLists.txt
 FAST_LIO_SAM/build
+FAST_LIO_SAM/devel
+FAST_LIO_SAM/install
+FAST_LIO_SAM/Log/*.txt
+FAST_LIO_SAM/Log/*.log
+.catkin_tools
 .vscode
 livox_ros_driver
 #whitelist
